@@ -13,6 +13,9 @@ I'm sorry if my code hurts your feelings. Please, if you have a spare minute, [s
 ### Note to team leaders
 If you read this - thanks! Could I improve anything? Do you have a question? [Welcome](https://t.me/walsk).
 
+### good-first-issue
+If you want to contribute, but don't know, where to start, I can make a `good-first-issue` for you. Many ideas. :)
+
 ### 5 curious facts about me
 - open source contributor since 2013
 - volunteer in various projects (mostly amateur aviation) since ~2010
