@@ -1,17 +1,9 @@
 ### Hi there 👋
 
- I've been diving deep into **Python** and **Rust** for the past decade, with an emphasis on **data engineering** and **systems programming** on **Linux**. I'm **available for hire** now.
+ I've been diving deep into **Python on Linux** for the past decade, with an emphasis on **data engineering** and **systems programming**. I'm **available for hire** now.
  - [Free time for calls](https://calendly.com/walsk/chat)
  - [Telegram](https://t.me/walsk)
  - [Email](mailto:valjaer@gmail.com)
-
-If you need a **contributor** or **maintainer** for your project written with Python and/or Rust and/or on Linux, feel free to ping me. I really encourage this kind of requests. Yes, it's better to work for money, but I prefer both money and fun. :) Just fun is sometimes fine too.
-
-### Note to code readers
-I'm sorry if my code hurts your feelings. Please, if you have a spare minute, [share your thoughts](https://t.me/walsk). Thanks.
-
-### Note to team leaders
-If you read this - thanks! Could I improve anything? Do you have a question? [Welcome](https://t.me/walsk).
 
 ### good-first-issue
 If you want to contribute, but don't know, where to start, I can make a `good-first-issue` for you. Many ideas. :)
